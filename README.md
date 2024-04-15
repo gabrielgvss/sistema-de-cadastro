@@ -1,2 +1,11 @@
-# sistema-de-cadastro
-Criação de projeto teste para exercício dos fundamentos de Git/Github
+<h1> Sistema de cadastro de jogos </h1>
+<h2> Criação de projeto teste para exercício dos fundamentos de Git/Github </h2>
+
+> Status do projeto: em desenvolvimento
+
+<p>Para rodar este projeto na sua máquina, por favor digite:</p>
+
+```
+npm install react
+```
+
